@@ -1,0 +1,6 @@
+python3
+
+n = int(input())
+n, sum = map(int, input().strip().split())
+nums = list(map(int, input().strip().split()))
+word = input()
